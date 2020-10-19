@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">BALI</string>
+    <string name="title">Open with</string>
+
+    <string-array name="natureName">
+        <item>Jatiluwih Rice Terraces</item>
+        <item>Angel’s Billabong</item>
+        <item>Leke Leke Waterfall</item>
+        <item>Hidden Canyon Beji Guwang</item>
+        <item>Desa Temukus</item>
+        <item>Kanto Lampo Waterfall</item>
+        <item>Suluban Cave</item>
+        <item>Yeh Leh Beach</item>
+        <item>Pasih Uug</item>
+    </string-array>
+
+    <string-array name="natureAddress">
+        <item>Desa Jatiluwih, Kecamatan Penebel, Kabupaten Tabanan, Bali 82152 – Indonesia</item>
+        <item>Sakti, Nusapenida, Klungkung Regency, Bali 80771, Indonesia</item>
+        <item>Antapan, Baturiti, Tabanan Regency, Bali 82191, Indonesia</item>
+        <item>Desa Guwang, Kecamatan Sukawati, Kabupaten Gianyar, Bali 80582</item>
+        <item>Unnamed Road, Besakih, Rendang, Karangasem Regency, Bali 80863, Indonesia</item>
+        <item>Beng, Gianyar Sub-District, Kabupaten Gianyar, Bali</item>
+        <item>Suluban Beach, Pantai Suluban</item>
+        <item>Gang Tasik, Desa Pengeragoan, Gumbrih, Kabupaten Jembrana, Bali, Indonesia</item>
+        <item>Jalan Batu Nunggul, Nusa Penida</item>
+    </string-array>
+
+    <string-array name="natureDescription">
+        <item> We’re all familiar with the rice terraces of Ubud, those classic photos you see on Instagram with the sun peeking out slightly above the clouds, pouring a most spectacular glow on the green fields.
+            What if we told you there was a bigger, better, and less crowded version? One which houses 600 hectares of rice terraces, and boasts a sea of green with endless layers!
+            The best part? You can explore as you like, find hidden photo spots, and sit down to listen to crickets and birds in the early hours of the morning – all to yourself!</item>
+        <item>The Angel’s Billabong is one of Nusa Penida’s secret getaways in the form of a marvelous natural infinity pool.
+            With its emerald hues and crystalline waters, the Angel’s Billabong is the epitome of stunning. And apparently, the green floors of this particular infinity pool are so comfortable to walk on (not slippery), it actually feels carpeted.
+            Imagine that! We sure wish we were lounging around at Angel’s Billabong this very moment.</item>
+        <item>Though having gained a little bit of traction over the last few months, Leke Leke Waterfall is still not the first choice for travellers when it comes to Bali waterfalls… why? A gorgeous singular cascade miraculously falls between the meeting of two cliff faces making it appear as though it’s the entrance to a secret cave!
+            With its entrance and surrounding amenities being well maintained and upgraded as compared to other hidden waterfalls around the island, here you get to enjoy the benefits of a tourist attraction with a lot less of a crowd. If you head there early in the morning (highly recommended), you might be lucky enough to sit and enjoy this magnificent beast all to yourself for a while; but that is if luck is on your side!</item>
+        <item>One of the key highlights at Mandalay Bay Resort complex is the Shark Reef Aquarium. The massive 1,300,000-gallon tank holds a wide variety of sharks, fish, rays, reptiles, and marine invertebrates.
+            About 100 sharks from 15 different species and more than 2,000 animals in all are on display.
+            The Shark Tunnel is the most impressive feature.</item>
+        <item>If you’ve ever wondered, there’s one particular flower used in religious rituals in Bali – the marigold flower, or locally known as ‘Gemitir’. It’s easy to imagine how wonderful it could be to be in the middle of flower fields full of marigold!
+            Desa Temukus is a quiet village in East Bali, close to the holiest (but sadly most commercial) temple in Bali. Many of its inhabitants grow flowers, so you can find many flower fields here. But don’t forget to ask for permission from the locals before entering their fields!
+            Another good news for travellers – the area also has a flower field of Edelweiss (or otherwise called ‘Kasna’). And one crucial tip: it’s better to visit the place before the harvesting season, so you can see the lushest flower fields ever (usually before a major religious day, so do check with your local Balinese friends about the dates, as Bali uses a lunar calendar so the dates change every year).</item>
+        <item>The unique combination of four out of the five elements (fire, water, earth and air) make this waterfall a unique location to breath in, breath out and meditate in peace. Picture a clear river, a giant pile of rocks, fresh air  and the gentle flow of water piercing through them; all in perfect harmony.
+            According to the locals, water has been flowing through only since a few years back (apparently since 2015) following an intensive praying ceremony, and since then the waterfall has been considered as a blessing for the villagers as it attracts tourists and brings them a source of income.
+            Legend also says that a cave appeared following the worshipping event. Today, the cave is used for meditation purposes but is also home to some bat species!</item>
+        <item>Everyone knows Suluban Beach to be a surfers’ paradise, but Suluban Cave might just be the real treasure here.
+            Looking almost like a movie set from the Pirates of the Caribbean series with its otherworldly glamour, Suluban Cave oozes both mystery and mystique.
+            Located directly under Uluwatu, the cave actually leads up to the beach near Uluwatu Temple, another incredible sea temple you should definitely visit too!</item>
+        <item>You probably wouldn’t have heard of the Yeh Leh Beach unless you are a local fisherman.
+            Located in Jembrana, just off the Denpasar-Gilimanuk highway, Yeh Leh is not decorated with soft white sand like your ideal beach.
+            Instead, thousands of boulders litter the shore, either covered in algae or washed clean by the waves. These mysterious rocks have been smoothed over for hundreds of years, leaving few clues about their origin.
+            The beach is actually easily accessible, and you can visit at low tide to see Yeh Leh in all its glory, with the boulders unearthed and many interesting marine animals caught in the rock pools.
+            And if you can, don’t miss its stunning sunset, which lights up every shining rock on the shore.</item>
+        <item>Pasih Uug, also known as the broken sea, is one unique attraction in Nusa Penida that happens to be a cool geological phenomenon.
+            Why is it known as the broken sea? At first sight, you’ll see a natural arch created by the rock cliffs. The arch – or the hole in the rock cliff as some would say – actually used to be a cave!
+            The floor of the cave had collapsed, creating the arch we see today. The hole in the cliff has also allowed ocean waters to flow through – creating a gorgeous natural pool on the other side to marvel at, and even swim in!</item>
+
+    </string-array>
+
+    <string-array name="food">
+        <item>The Sayan House</item>
+        <item>Mozaic Beach Club</item>
+        <item>Metis</item>
+        <item>Sarong Bali</item>
+        <item>Republik 45</item>
+        <item>Slippery Stone</item>
+    </string-array>
+
+    <string-array name="foodAddress">
+        <item>Jl. RAYA SAYAN NO.70 UBUD BALI INDONESIA</item>
+        <item>Jl. Pantai Batu Belig (Jl. Petitenget) Badung, Bali Bali 80361 Indonesia</item>
+        <item>Jl. petitenget no.6 kerobokan kelod, kuta, bali, indonesia</item>
+        <item>Jalan Petitenget 19XX, Kuta Utara, Badung</item>
+        <item>Jalan Raya Kerobokan No. 86A Badung Bali 80361 Indonesia</item>
+        <item>JI.Batubelig, NO.9N Seminyak, Bali 80361</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>The Sayan House is a causal fine dining restaurant located in Sayan, overlooking the Ayung River, just outside the bustling Ubud centre. The restaurant serves an Asian Contemporary menu refined with Japanese finesse.
+            Their Executive Chef, Yuki Tagami, uses his worldwide experiences of tastes and cooking and unifies them in his dishes, giving traditional dishes a new look and flavour. </item>
+        <item>On the secluded shoreline of Batu Belig lies Mozaic Beachclub.
+            Delicious food, ice cold cocktails and a chilled out ambience you wont find anywhere else. Chef Owners Chris Salans and James Ephraim bring the Mozaic food quality and culinary concept of Western cuisine influenced by Southeast Asian flavours to a more relaxed and affordable beach side brasserie setting.</item>
+        <item>MÉTIS Restaurant and Gallery welcomes guests to enjoy an entirely sensory dining experience borne of the pleasures of living. The 350-seat restaurant, bar, lounge and private dining is open for lunch and dinner. Chef Nicolas ‘Doudou’ Tourneville,
+            formerly of Kafe Warisan, brings his legendary talent and culinary artistry to the table with a masterful combination of French Mediterranean cuisine.</item>
+        <item>Since opening in 2008, Sarong has become the most sought after Asian cuisine dining establishment in Bali. Founding Chef Will Meyrick developed the concept after setting up several successful restaurants around Pacific Asia.
+            Pay them a visit once and you will totally agree with us that Sarong is deserve to be in our Bali best restaurants list.</item>
+        <item>Brings the best of traditional Indonesian cuisine prepared to the highest standard. Representing a genuine statement of Indonesian independence, character and pride, is something we endeavor to achieve on a daily basis in both our concept and work ethic.
+            Their cuisine is prepared and served “The Indonesian Way” by Bali’s most talented people. Using 90% gluten free local produce and ingredients,
+            the authentic characteristics and origins in every dish offer all our guests a real interpretation of all parts of the archipelago.</item>
+        <item>The open kitchen and lounge areas create a unique feeling of warmth and hospitality. A Balinese feel is presence due to breathtaking rice paddy views, and the local farmers going about their day-to-day business. With traditional classic’s like Lamb Yiro, Saganaki, and for dessert Galaktobouriko,
+            mixed in with some more contemporary dishes, such as our Bali village Chicken. </item>
+    </string-array>
+
+    <string-array name="foodPhoneNumber">
+        <item>+62 361 4792 592</item>
+        <item>+62 361 4735 796</item>
+        <item>+62 361 4737 888</item>
+        <item>+62-812 3634 3386</item>
+        <item>+62 819 1674 1844</item>
+        <item>+62 361 8465 999</item>
+    </string-array>
+
+    <string-array name="foodWorkingHours">
+        <item>12:00am – 23:00pm</item>
+        <item>11:00am – 23:00pm</item>
+        <item>11:00am – 4:00am</item>
+        <item>6:30pm – LATE</item>
+        <item>12:00am – 23:00pm</item>
+        <item>6:00pm - 12:00am</item>
+    </string-array>
+
+    <string-array name="temple">
+        <item>Tanah Lot Temple</item>
+        <item>Uluwatu Temple</item>
+        <item>Ulun Danu Beratan Temple</item>
+        <item>Besakih Temple</item>
+        <item>Tirta Empul</item>
+        <item>Underwater Temple</item>
+        <item>Goa Lawah Temple</item>
+    </string-array>
+
+    <string-array name="templeAddress">
+        <item>Jalan Raya Tanah Lot, Beraban Village, Kediri, Tabanan, Bali</item>
+        <item>Pecatu, South Kuta, Badung Regency, Bali, Indonesia</item>
+        <item>Jl. Bedugul – Singaraja, Candikuning, Baturiti, Candikuning, Baturiti, Kabupaten Tabanan, Bali</item>
+        <item>Desa Besakih, Rendang, Besakih, Rendang, Kabupaten Karangasem, Bali</item>
+        <item>Jalan Tirta, Manukaya, Tampaksiring, Kabupaten Gianyar, Bali</item>
+        <item>Pemuteran, Bali</item>
+        <item>Jl. Raya Goa Lawah, Pesinggahan, Klunkung, Kabupaten Klungkung, Bali</item>
+        </string-array>
+
+    <string-array name="templeWorkingHours">
+        <item>7:00am - 7:00pm</item>
+        <item>9:00am - 6:00pm</item>
+        <item>8:00am - 6:00pm</item>
+        <item>8:00am - 5:00pm</item>
+        <item>9:00am - 5:00pm</item>
+        <item>The timings would vary and depend on the snorkelling company youd choose for your visit.</item>
+        <item>8:00am – 6:00pm</item>
+    </string-array>
+
+    <string-array name="templeInfo">
+        <item>Of all the Bali temples, Tanah Lot is the most popular one to visit. This scenic sea temple situated on the top of an outcrop lets you witness the best sunsets on the island, and keeps you entertained with restaurants, shops, and a cultural park that showcases regular dance performances.</item>
+        <item>Known widely for its cliff-top location, which is 250 feet above the waves of the Indian Ocean, this temple is magnificently fascinating and one of the best Balinese temples. Archaeological remains, gorgeous views of the ocean and the sun, and a peaceful ambience is what youd witness and experience here.</item>
+        <item>A heaven in a lake, thats what Ulun Danu truly is. Located on the western side of Beratan Lake in Bedugul, this floating temple is a famous picturesque landmark, and also a recreational place for anyone visiting Bali. Apart from its structure, the cool atmosphere and positive vibes here are perfect for rejuvenating your mind, body and soul.</item>
+        <item>Of all the Hindu temples in Bali, Besakih is the biggest and the holiest temple complex on the island. From its entrance that feels like a ladder taking you directly to a paradise to its location on the slopes of Mount Agung, everything would surely leave you in awe! This is one of the famous temples in Bali.</item>
+        <item>One of the largest water temples in Bali, Tirta Empul is famous for its holy water that is believed to be used for purification rituals. With statues amidst lush green gardens and tropical plants at the entrance, and the first pools behind the gate, it looks like a beautiful scenery. While visiting Bali temples, do make a visit to this one also!</item>
+        <item>If you’re looking for water temples, Bali is the right place. A visit to the Underwater Temple Bali is undoubtedly the most unique temple tour experience. Packed with serenity and adventure, a visit to this temple situated below the water in the Pemuteran bio rock area via diving or snorkelling is a must, especially for those who love non-cliche holiday ideas.</item>
+        <item>Your Bali temple tour would stay incomplete until you tick Goa Lawah off your list. This temple is located on the southeast coast of Bali, and is built around a cave, which is home to a lot of bats. Apart from its location, the motifs of the dragon, shrines in the centre and large banyan trees at the entrance are pretty mesmerizing too.</item>
+    </string-array>
+
+</resources>
