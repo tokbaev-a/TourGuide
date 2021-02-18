@@ -23,7 +23,7 @@ public class NatureFragment extends Fragment {
         int[] images = {R.drawable.bali_jatiluwih_rice_terraces, R.drawable.bali_angels_billabong, R.drawable.bali_leke_leke, R.drawable.bali_beji_guwang, R.drawable.bali_desa_temukus, R.drawable.bali_kanto_lampo, R.drawable.bali_suluban_cave, R.drawable.bali_yeh_leh, R.drawable.bali_pasih_uug,};
         String [] sightDescription = getResources().getStringArray(R.array.natureDescription);
 
-         ArrayList<Place> places = new ArrayList<Place>();
+         ArrayList<Place> places = new ArrayList<>();
 
         for (int i = 0; i < images.length ; i++) {
             places.add(new Place(natureName[i], natureAddress[i], sightDescription[i], images[i] ));
@@ -31,7 +31,7 @@ public class NatureFragment extends Fragment {
 
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity(), places);
 
-        ListView listView = (ListView) rootview.findViewById(R.id.list);
+        ListView listView = rootview.findViewById(R.id.list);
         listView.setAdapter(placeAdapter);
 
         return rootview;

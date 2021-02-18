@@ -23,7 +23,7 @@ public class TempleFragment extends Fragment {
         String [] info = getResources().getStringArray(R.array.templeInfo);
         String [] workingHours = getResources().getStringArray(R.array.templeWorkingHours);
         int [] images = {R.drawable.bali_tanah_lot_temple, R.drawable.bali_uluwatu_temple, R.drawable.bali_ulun_danu_beratan_temple, R.drawable.bali_besakih, R.drawable.bali_tirta_empul_temple, R.drawable.bali_underwater_temple, R.drawable.bali_goa_lawah_temple,};
-        final ArrayList<Place> places = new ArrayList<Place>();
+        final ArrayList<Place> places = new ArrayList<>();
 
         for (int i = 0; i < images.length ; i++) {
             places.add(new Place(templePlaces[i], templeAddress[i], images[i],

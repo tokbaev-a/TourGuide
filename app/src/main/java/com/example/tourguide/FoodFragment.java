@@ -18,7 +18,7 @@ public class FoodFragment extends Fragment {
                              Bundle savedInstanceState) {
 
         View rootview = inflater.inflate(R.layout.place_list, container, false);
-        ArrayList<Place> places = new ArrayList<Place>();
+        ArrayList<Place> places = new ArrayList<>();
         String [] foodName = getResources().getStringArray(R.array.food);
         String [] foodAddress = getResources().getStringArray(R.array.foodAddress);
         String [] foodPhoneNumber = getResources().getStringArray(R.array.foodPhoneNumber);

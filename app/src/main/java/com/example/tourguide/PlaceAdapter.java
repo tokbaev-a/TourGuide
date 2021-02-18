@@ -2,7 +2,6 @@ package com.example.tourguide;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,10 +10,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
-
-import com.bumptech.glide.Glide;
-import com.bumptech.glide.request.target.ViewTarget;
 
 import java.util.ArrayList;
 
@@ -27,8 +24,9 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         super(context, 0, places);
     }
 
+    @NonNull
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(int position, View convertView, @NonNull ViewGroup parent) {
         View listItemView = convertView;
         if (listItemView == null) {
             listItemView = LayoutInflater.from(getContext()).inflate(R.layout.places, parent, false);
@@ -38,6 +36,7 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         final Place currentPlace = getItem(position);
 
         TextView nameOfLocation = listItemView.findViewById(R.id.place_name);
+        assert currentPlace != null;
         nameOfLocation.setText(currentPlace.getPlaceName());
 
 
@@ -56,11 +55,6 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
 
         final TextView number = listItemView.findViewById(R.id.phone_number);
         number.setVisibility(View.GONE);
-        ImageView imageLocation = listItemView.findViewById(R.id.image);
-        ViewTarget<ImageView, Drawable> into = Glide
-                .with(getContext())
-                .load(currentPlace.getImageId())
-                .into(imageLocation);
 
         final ImageView phoneIcon = listItemView.findViewById(R.id.phone_number_icon);
         phoneIcon.setVisibility(View.GONE);
